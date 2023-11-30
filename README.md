@@ -2,7 +2,7 @@
 
 This project allows you to list your folders
 
-![](https://img.shields.io/github/stars/JeromeChenaie/tp-open-source)
+![](https://img.shields.io/github/stars/JeromeChenaie/pyls)
 
 ## Installation
 - [Install Python](https://www.python.org/) 
