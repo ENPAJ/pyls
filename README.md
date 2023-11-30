@@ -36,6 +36,7 @@ Ce script Python simple vous permet d'afficher le contenu d'un répertoire en ut
 Nous sommes ouverts aux contributions ! Si vous souhaitez contribuer à ce script, veuillez suivre ces étapes :
 
 1. Forkez le projet sur GitHub.
+
 2. Créez une nouvelle branche pour votre fonctionnalité :
     ```bash
     git checkout -b ma-nouvelle-fonctionnalite
